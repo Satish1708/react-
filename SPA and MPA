@@ -1,0 +1,14 @@
+Single Page APplication 
+  Only One Html page, content is [re]rendered  on Client
+  Entire page is a react component
+  Typically only one ReatDOM.render()call
+  
+  
+  
+  
+  
+  
+  Multiple Page Applicztions
+    Multiple HTML pages, Content is rendered on Server.
+    Widgets are maintained by React
+    Typically more than one ReatDOM.render()call as one widget is not aware of others existence
